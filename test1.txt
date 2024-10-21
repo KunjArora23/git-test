@@ -1,0 +1,3 @@
+git remote set-url origin https://github.com/username/new-repository.git
+git remote set-url origin https://github.com/KunjArora23/test.git
+git remote set-url origin https://github.com/KunjArora23/git-test.git
